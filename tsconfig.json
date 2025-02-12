@@ -1,0 +1,218 @@
+
+{
+  "storeName": "Harmony Music Shop",
+  "currency": "EUR",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guitars",
+      "products": [
+        {
+          "id": 101,
+          "name": "Fender Stratocaster",
+          "brand": "Fender",
+          "price": 1199.99,
+          "description": "A classic electric guitar known for its versatile sound.",
+          "image": "images/fender_stratocaster.jpg",
+          "inStock": true
+        },
+        {
+          "id": 102,
+          "name": "Gibson Les Paul",
+          "brand": "Gibson",
+          "price": 2299.99,
+          "description": "A legendary rock guitar with a warm, full tone.",
+          "image": "images/gibson_les_paul.jpg",
+          "inStock": true
+        },
+        {
+          "id": 103,
+          "name": "Ibanez RG550",
+          "brand": "Ibanez",
+          "price": 999.99,
+          "description": "A high-performance electric guitar for shredders.",
+          "image": "images/ibanez_rg550.jpg",
+          "inStock": false
+        },
+        {
+          "id": 104,
+          "name": "Martin D-28",
+          "brand": "Martin",
+          "price": 1899.99,
+          "description": "A premium acoustic guitar with warm and rich tones.",
+          "image": "images/martin_d28.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Keyboards",
+      "products": [
+        {
+          "id": 201,
+          "name": "Yamaha P-45",
+          "brand": "Yamaha",
+          "price": 459.99,
+          "description": "An affordable digital piano with weighted keys.",
+          "image": "images/yamaha_p45.jpg",
+          "inStock": true
+        },
+        {
+          "id": 202,
+          "name": "Roland FP-30",
+          "brand": "Roland",
+          "price": 649.99,
+          "description": "A professional digital piano with Bluetooth connectivity.",
+          "image": "images/roland_fp30.jpg",
+          "inStock": false
+        },
+        {
+          "id": 203,
+          "name": "Korg Kronos",
+          "brand": "Korg",
+          "price": 2999.99,
+          "description": "A top-of-the-line synthesizer for professionals.",
+          "image": "images/korg_kronos.jpg",
+          "inStock": true
+        },
+        {
+          "id": 204,
+          "name": "Casio CT-X700",
+          "brand": "Casio",
+          "price": 229.99,
+          "description": "A beginner-friendly keyboard with multiple tones.",
+          "image": "images/casio_ctx700.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Drums",
+      "products": [
+        {
+          "id": 301,
+          "name": "Pearl Export Drum Kit",
+          "brand": "Pearl",
+          "price": 759.99,
+          "description": "A high-quality drum kit suitable for all skill levels.",
+          "image": "images/pearl_export.jpg",
+          "inStock": true
+        },
+        {
+          "id": 302,
+          "name": "Yamaha Stage Custom",
+          "brand": "Yamaha",
+          "price": 949.99,
+          "description": "A professional-grade drum set with a rich sound.",
+          "image": "images/yamaha_stage_custom.jpg",
+          "inStock": false
+        },
+        {
+          "id": 303,
+          "name": "Roland TD-17KVX",
+          "brand": "Roland",
+          "price": 1899.99,
+          "description": "An advanced electronic drum set with realistic sounds.",
+          "image": "images/roland_td17.jpg",
+          "inStock": true
+        },
+        {
+          "id": 304,
+          "name": "Alesis Nitro Mesh Kit",
+          "brand": "Alesis",
+          "price": 399.99,
+          "description": "An affordable electronic drum kit with mesh heads.",
+          "image": "images/alesis_nitro.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Brass Instruments",
+      "products": [
+        {
+          "id": 401,
+          "name": "Yamaha YTR-2330 Trumpet",
+          "brand": "Yamaha",
+          "price": 529.99,
+          "description": "A beginner-friendly trumpet with a bright sound.",
+          "image": "images/yamaha_trumpet.jpg",
+          "inStock": true
+        },
+        {
+          "id": 402,
+          "name": "Bach Stradivarius 180S37",
+          "brand": "Bach",
+          "price": 2999.99,
+          "description": "A professional-grade trumpet with excellent projection.",
+          "image": "images/bach_trumpet.jpg",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "String Instruments",
+      "products": [
+        {
+          "id": 501,
+          "name": "Stentor Student Violin",
+          "brand": "Stentor",
+          "price": 199.99,
+          "description": "A high-quality beginner violin.",
+          "image": "images/stentor_violin.jpg",
+          "inStock": true
+        },
+        {
+          "id": 502,
+          "name": "Yamaha V5SC Violin",
+          "brand": "Yamaha",
+          "price": 799.99,
+          "description": "A professional violin with superior craftsmanship.",
+          "image": "images/yamaha_violin.jpg",
+          "inStock": true
+        }
+      ]
+    }
+  ],
+  "mostPopular": [
+    {
+      "id": 101,
+      "name": "Fender Stratocaster",
+      "brand": "Fender",
+      "price": 1199.99
+    },
+    {
+      "id": 201,
+      "name": "Yamaha P-45",
+      "brand": "Yamaha",
+      "price": 459.99
+    },
+    {
+      "id": 301,
+      "name": "Pearl Export Drum Kit",
+      "brand": "Pearl",
+      "price": 759.99
+    },
+    {
+      "id": 401,
+      "name": "Yamaha YTR-2330 Trumpet",
+      "brand": "Yamaha",
+      "price": 529.99
+    },
+    {
+      "id": 502,
+      "name": "Yamaha V5SC Violin",
+      "brand": "Yamaha",
+      "price": 799.99
+    }
+  ],
+  "contactInfo": {
+    "email": "support@harmonymusicshop.com",
+    "phone": "+353-1-555-1234",
+    "address": "123 Music Lane, Dublin, Ireland"
+  }
+}

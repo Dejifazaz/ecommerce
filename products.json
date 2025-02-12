@@ -1,0 +1,103 @@
+[
+
+  {
+    "name": "Fender Stratocaster",
+    "category": "Guitars",
+    "brand": "Fender",
+    "price": 1199.99,
+    "currency": "EUR",
+    "description": "A classic electric guitar known for its versatile sound.",
+    "image": "images/fender_stratocaster.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Gibson Les Paul",
+    "category": "Guitars",
+    "brand": "Gibson",
+    "price": 2299.99,
+    "currency": "EUR",
+    "description": "A legendary rock guitar with a warm, full tone.",
+    "image": "images/gibson_les_paul.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Yamaha P-45",
+    "category": "Keyboards",
+    "brand": "Yamaha",
+    "price": 459.99,
+    "currency": "EUR",
+    "description": "An affordable digital piano with weighted keys.",
+    "image": "images/yamaha_p45.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Roland FP-30",
+    "category": "Keyboards",
+    "brand": "Roland",
+    "price": 649.99,
+    "currency": "EUR",
+    "description": "A professional digital piano with Bluetooth connectivity.",
+    "image": "images/roland_fp30.jpg",
+    "inStock": false
+  },
+  {
+    "name": "Pearl Export Drum Kit",
+    "category": "Drums",
+    "brand": "Pearl",
+    "price": 759.99,
+    "currency": "EUR",
+    "description": "A high-quality drum kit suitable for all skill levels.",
+    "image": "images/pearl_export.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Yamaha YTR-2330 Trumpet",
+    "category": "Brass Instruments",
+    "brand": "Yamaha",
+    "price": 529.99,
+    "currency": "EUR",
+    "description": "A beginner-friendly trumpet with a bright sound.",
+    "image": "images/yamaha_trumpet.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Stentor Student Violin",
+    "category": "String Instruments",
+    "brand": "Stentor",
+    "price": 199.99,
+    "currency": "EUR",
+    "description": "A high-quality beginner violin.",
+    "image": "images/stentor_violin.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Korg Kronos",
+    "category": "Keyboards",
+    "brand": "Korg",
+    "price": 2999.99,
+    "currency": "EUR",
+    "description": "A top-of-the-line synthesizer for professionals.",
+    "image": "images/korg_kronos.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Roland TD-17KVX",
+    "category": "Drums",
+    "brand": "Roland",
+    "price": 1899.99,
+    "currency": "EUR",
+    "description": "An advanced electronic drum set with realistic sounds.",
+    "image": "images/roland_td17.jpg",
+    "inStock": true
+  },
+  {
+    "name": "Casio CT-X700",
+    "category": "Keyboards",
+    "brand": "Casio",
+    "price": 229.99,
+    "currency": "EUR",
+    "description": "A beginner-friendly keyboard with multiple tones.",
+    "image": "images/casio_ctx700.jpg",
+    "inStock": true
+  }
+]

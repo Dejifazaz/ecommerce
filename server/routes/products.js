@@ -3,7 +3,7 @@ const router = require(`express`).Router()
 const Product = require(`../models/products`)
 
 // read all records
-router.get(`/cars`, (req, res) =>
+router.get(`/products`, (req, res) =>
 {
     Product.find((error, data) =>
     {
